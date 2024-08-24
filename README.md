@@ -1,4 +1,3 @@
-# Multi-Agent Reinforcement Learning for Autonomous Driving 
-Code base for our IEEE T-RO Submission: **Multi-Agent Reinforcement Learning for Large-scale Autonomous Driving: A Survey** 
-
-readme is comming soon :)
+# Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey
+Code base for our paper: **Multi-Agent Reinforcement Learning for Large-scale Autonomous Driving: A Survey** 
+Please check this [website](https://github.com/RuiqiZhang99/MARL4AD).
